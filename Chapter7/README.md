@@ -1,0 +1,2 @@
+# MapReduce的特性
+
